@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    
+}
+.initial1 {
+    text-align: center;
+    margin-inline: auto;
+}
+.initial1 img {
+    width: 200px;
+    margin-inline: auto;
+}
+
+ .initial1 p {
+    background-color: rgba(255, 255, 0, 0.483);
+    margin: 0;
+    padding: 10px;
+    border-top:solid rgba(88, 88, 3, 0.149)
+    }
+    section {
+        text-align: center;
+        margin-top: 6em;
+        width: 1000px;
+        margin-inline: auto;
+    }
+    .testo-sec {
+        margin-block: auto;
+        margin-inline: auto;
+    }
+    .immagini-sec img {
+         border-radius: 10px;
+    }
+    .immagini-sec p {
+        color: rgb(88, 85, 85);
+    }
+    .link-h {
+        text-align:start;
+     margin-inline: auto;
+     padding-left: 9rem;
+    }
+    .link-h h4 {
+     
+     color: red;
+     margin-bottom: 1px;
+    }
+    .link-h a {
+        color: rgb(16, 110, 110);
+    }
+    .ingredienti-list {
+        text-align:start;
+     margin-inline: auto;
+     padding-left: 9rem;
+    }
+    
+    .ingredienti-list p {
+        border-top:solid;
+        padding-top: 2em;
+    }
+    #capo {
+        border-top: 0;
+    }
+    footer{
+        padding-left: 14em;
+        margin-top: 6em;
+        width: 1000px;
+        margin-inline: auto;
+    }
+    footer h1 {
+        border-bottom: solid;
+        padding-bottom: 2em;
+        margin-bottom: 2em;
+    }
