@@ -18,10 +18,13 @@ body {
     border-top:solid rgba(88, 88, 3, 0.149)
     }
     section {
-        text-align: center;
+       
         margin-top: 6em;
-        width: 1000px;
+        width: 800px;
         margin-inline: auto;
+    }
+    section h1{
+        text-align: center;
     }
     .testo-sec {
         margin-block: auto;
@@ -29,6 +32,7 @@ body {
     }
     .immagini-sec img {
          border-radius: 10px;
+         width: 100%;
     }
     .immagini-sec p {
         color: rgb(88, 85, 85);
@@ -36,7 +40,7 @@ body {
     .link-h {
         text-align:start;
      margin-inline: auto;
-     padding-left: 9rem;
+    
     }
     .link-h h4 {
      
@@ -49,7 +53,7 @@ body {
     .ingredienti-list {
         text-align:start;
      margin-inline: auto;
-     padding-left: 9rem;
+     
     }
     
     .ingredienti-list p {
@@ -60,10 +64,11 @@ body {
         border-top: 0;
     }
     footer{
-        padding-left: 14em;
-        margin-top: 6em;
-        width: 1000px;
+
         margin-inline: auto;
+        margin-top: 6em;
+        width: 800px;
+
     }
     footer h1 {
         border-bottom: solid;
